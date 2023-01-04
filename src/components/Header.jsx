@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function Header() {
+export const Header = () => {
   return (
-    <h1>Header</h1>
+    <div>Header</div>
   )
 }
